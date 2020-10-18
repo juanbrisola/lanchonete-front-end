@@ -8,4 +8,4 @@ Tecnologias utilizadas nesse projeto:
 - Axios;
 - Material UI (biblioteca do react)
 
-Baixe o repositório (https://github.com/juanbrisola/SpringBootRestApi.git) e siga as instruções para executar a aplicação.
+Baixe o repositório (https://github.com/juanbrisola/lanchonete-back-end.git) e siga as instruções para executar a aplicação.
